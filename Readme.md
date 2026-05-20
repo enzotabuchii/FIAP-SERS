@@ -1,0 +1,3 @@
+# Soluções Em Energias Renováveis e Sustentáveis
+
+Com a crescente demanda por sustentabilidade, a eficiência energética tornou-se uma prioridade. Nesta disciplina, você aprenderá a aplicar algoritmos avançados para otimizar o consumo energético em sistemas renováveis, utilizando ferramentas como MATLAB e simuladores de energia. Estudaremos também o impacto de modelos preditivos e machine learning para prever e melhorar a eficiência energética em projetos reais.
